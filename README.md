@@ -6,11 +6,9 @@ I'm really focused on learning English this year, that's why all my descriptions
 
 ## Social media 📫
 
-<div align="center">
+<span>
   <a href="https://www.linkedin.com/in/leandro-cadena/"><img align="center" width="50" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
-  <a href="https://www.instagram.com/leodaez/"><img align="center" width="50" src="https://user-images.githubusercontent.com/63469188/125872127-e8eb8435-7718-4c4a-9380-07a52e18d13d.png"></a>
-  <a href="https://www.facebook.com/leo.cadena.7/"><img align="center" width="50" src="https://image.flaticon.com/icons/png/512/174/174848.png"></a>
-</div>
+</span>
 
 ## Contact 📞
 
