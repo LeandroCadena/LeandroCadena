@@ -4,23 +4,28 @@
 I am full-stack developer  graduated from Henry and also graduated as a software developer from a high school. I am very passionate abour programming and problem solving.
 I'm really focused on learning English this year, that's why all my descriptions are in English even though my native language is Spanish.
 
-## Social media 📫
-
-<span>
-  <a href="https://www.linkedin.com/in/leandro-cadena/"><img align="center" width="50" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
-</span>
-
 ## Contact 📞
 
-Cell Phone: 261-2190080
-
-mail: cadenaleandro97@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/leandro-cadena/
-
-Instagram: https://www.instagram.com/leodaez/
-
-Facebook: https://www.facebook.com/leo.cadena.7/
+<div>
+  <span>
+  <img align="center" width="30" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png">
+  </span>
+261-2190080
+</div>
+</br>
+<div>
+  <span>
+  <img align="center" width="30" src="http://quierosushi.cl/images/email-icon.png">
+  </span>
+cadenaleandro97@gmail.com
+</div>
+</br>
+<div>
+  <span>
+  <a href="https://www.linkedin.com/in/leandro-cadena/"><img align="center" width="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
+  </span>
+linkedin.com/in/leandro-cadena
+</div>
 
 ## Language & Tools 💻
 
