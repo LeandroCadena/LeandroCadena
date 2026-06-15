@@ -4,11 +4,11 @@ Full Stack Developer with 5+ years of experience building enterprise application
 
 Focused on Backend Engineering, System Integrations, Payroll Platforms and Performance Optimization.
 
-🌐 Portfolio: https://leandro-portfolio-omega.vercel.app/
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://leandro-portfolio-omega.vercel.app/)
 
-💼 LinkedIn: https://www.linkedin.com/in/leandro-cadena/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leandro-cadena/)
 
-📧 Email: cadenaleandro97@gmail.com
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge)](https://leandro-portfolio-omega.vercel.app/Leandro_Cadena_Resume.pdf)
 
 ## Professional Focus
 
