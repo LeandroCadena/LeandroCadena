@@ -1,64 +1,75 @@
-![Git-banner](https://user-images.githubusercontent.com/63469188/125871002-e8131a6d-a89a-4936-9617-f03fade3f8be.png)
-# Hi, I'm Leandro 👋♥
+# Hi, I'm Leandro Cadena 👋
 
-I am full-stack developer  graduated from Henry and also graduated as a software developer from a high school. I am very passionate abour programming and problem solving.
-I'm really focused on learning English this year, that's why all my descriptions are in English even though my native language is Spanish.
+Full Stack Developer with 5+ years of experience building enterprise applications, backend services, APIs, payroll systems and third-party integrations.
 
-## Contact 📞
+Focused on Backend Engineering, System Integrations, Payroll Platforms and Performance Optimization.
 
-<div>
-  <span>
-  <img align="center" width="30" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png">
-  </span>
-261-2190080
-</div>
-</br>
-<div>
-  <span>
-  <img align="center" width="30" src="http://quierosushi.cl/images/email-icon.png">
-  </span>
-cadenaleandro97@gmail.com
-</div>
-</br>
-<div>
-  <span>
-  <a href="https://www.linkedin.com/in/leandro-cadena/"><img align="center" width="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
-  </span>
-linkedin.com/in/leandro-cadena
-</div>
+## Professional Focus
 
-## Language & Tools 💻
+- Backend Engineering
+- API Integrations
+- Payroll & HR Systems
+- Enterprise Applications
+- Performance Optimization
+- Cloud & DevOps
 
-<div align="center">
-  <span><img align="center" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></span>
-  <span><img align="center" width="50" src="https://image.flaticon.com/icons/png/512/1183/1183672.png"></span>
-  <span><img align="center" width="50" src="https://image.flaticon.com/icons/png/512/919/919825.png"></span>
-  <span><img align="center" width="50" src="https://image.flaticon.com/icons/png/512/25/25231.png"></span>
-  <span><img align="center" width="50" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></span>
-  <span><img align="center" width="50" src="https://khalilstemmler.com/img/blog/sequelize/banner.png"></span>
-  <span><img align="center" width="50" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png"></span>
-  <span><img align="center" width="50" src="https://img.icons8.com/color/452/mongodb.png"></span>
-  <span><img align="center" width="50" src="https://image.flaticon.com/icons/png/512/919/919831.png"></span>
-  <span><img align="center" width="50" src="https://gtswiki.gt-beginners.net/decal/png/24/58/61/6125459556194615824_1.png"></span>
-  <span><img align="center" width="50" src="https://image.flaticon.com/icons/png/512/1199/1199128.png"></span>
-  <span><img align="center" width="50" src="https://image.flaticon.com/icons/png/512/919/919826.png"></span>
-  <span><img align="center" width="50" src="https://image.flaticon.com/icons/png/512/226/226269.png"></span>
-  <span><img align="center" width="50" src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/csharp-logo.png"></span>
-  <span><img align="center" width="50" src="https://www.pinclipart.com/picdir/middle/373-3734150_trello-clickup-trello-icon-png-clipart.png"></span>
-  <span><img align="center" width="50" src="https://camo.githubusercontent.com/6686b9ef0e21e13c9e7c846340303765c0f36e40a0490bcad453ea9d0d433ea0/68747470733a2f2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67"></span>
-</div>
+## Tech Stack
 
-#### JavaScript, React, Node, Git, TypeScript, Sequelize, PostgreSQL, mongoDB, mongoose, MySQL, Sass, CSS, Html5, Csharp, Trello, Express
+### Backend
 
-## I’m currently learning 🌱
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
-MongoDB, mongoose, TypeScript
+### Frontend
 
-## I’m currently working on 👨🏻‍💻
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 
-A collaborative project of Henry, which is an e-commerce
+### Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
+### Cloud & DevOps
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
+## Experience Highlights
 
+### Payroll & HR Systems
+
+- Employee lifecycle management
+- Compensation workflows
+- Payroll operations
+- HRIS integrations
+
+### Enterprise Integrations
+
+- REST APIs
+- Third-party platforms
+- Data synchronization
+- Event-driven workflows
+
+### Performance Optimization
+
+- Query optimization
+- Memory usage improvements
+- Request processing enhancements
+- Production troubleshooting
+
+## Contact
+
+📧 cadenaleandro97@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/leandro-cadena
+
+🌎 Argentina
+
+🚀 Open to Remote Opportunities
