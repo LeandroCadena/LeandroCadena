@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://leandro-portfolio-omega.vercel.app/">
+    <img src="./assets/banner.png" alt="Leandro Cadena Banner" />
+  </a>
+</p>
+
 # Hi, I'm Leandro Cadena 👋
 
 Full Stack Developer with 5+ years of experience building enterprise applications, backend services, APIs, payroll systems and third-party integrations.
